@@ -169,7 +169,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: #fff;
-  background-image: url(../img/header-bg.jpg);
+  background-image: url(../img/paris_new.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -548,8 +548,8 @@ header.masthead .intro-text .intro-heading {
   text-align: center;
 }
 .team-member img {
-  width: 225px;
-  height: 225px;
+  width: 200px;
+  height: 300px;
   border: 7px solid #fff;
 }
 .team-member h4 {
