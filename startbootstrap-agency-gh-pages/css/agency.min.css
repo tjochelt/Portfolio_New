@@ -169,7 +169,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: #fff;
-  /* background-image: url(../img/paris_new.jpg); */
+  background-image: url(/startbootstrap-agency-gh-pages/img/paris_new.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
